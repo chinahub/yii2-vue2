@@ -2,6 +2,7 @@
 namespace allen\vue;
 
 use Yii;
+
 /**
  * @author akbar joudi <akbar.joody@gmail.com>
  */
