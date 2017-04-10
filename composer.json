@@ -1,0 +1,23 @@
+{
+    "name": "allenfrancics/yii2-vue2",
+    "description": "yii2 extention based on vue2 in frontend",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","vue2"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "allenfrancics",
+            "email": "allenfrancics@foxmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+        "bower-asset/vue": "*",
+        "bower-asset/axios" : "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "allen\\vue\\": ""
+        }
+    }
+}
