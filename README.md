@@ -29,3 +29,8 @@ Once the extension is installed, simply use it in your code by  :
 
 ```php
 <?= \allen\vue\AutoloadExample::widget(); ?>```
+
+
+Note
+-----
+it's coding,please do not use it in your development environment.
