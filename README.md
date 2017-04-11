@@ -16,7 +16,7 @@ php composer.phar require chinahub/yii2-vue2 "~1.0.0"
 or add
 
 ```
-"chinahub/yii2-vue2": "*"
+"chinahub/yii2-vue2": "~1.0.0"
 ```
 
 to the require section of your `composer.json` file.
