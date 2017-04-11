@@ -10,7 +10,7 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist chinahub/yii2-vue2 "*"
+php composer.phar require chinahub/yii2-vue2 "~1.0.0"
 ```
 
 or add

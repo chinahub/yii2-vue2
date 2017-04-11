@@ -1,5 +1,5 @@
 <?php
-namespace aki\vue;
+namespace allen\vue;
 
 /**
  * Description of VueAsset
